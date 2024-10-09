@@ -42,9 +42,7 @@ body {
   border-bottom: 1px solid black;
   border-top: 1px solid rgba(255,255,255,.1);
   transition: .4s;
-  overflow-y: scroll;
-    top: 0;
-    bottom: 0;
+ 
   
 }
 ul li:hover a{
@@ -52,9 +50,6 @@ ul li:hover a{
 }
 .sidebar ul a i{
   margin-right: 16px;
-  overflow-y: scroll;
-    top: 0;
-    bottom: 0;
 }
 #check{
   display: none;
