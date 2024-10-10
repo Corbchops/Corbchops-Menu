@@ -26,9 +26,6 @@ body {
   text-align: center;
   background: #063146;
   user-select: none;
-  overflow-y: scroll;
-    top: 0;
-    bottom: 0;
 }
 .sidebar ul a{
   display: block;
